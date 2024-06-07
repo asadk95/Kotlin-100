@@ -11,6 +11,7 @@ fun main() {
     println(rec.name)
    // val circle = Circle(18.0)
   //  val triangle =Triangle(10.0,10.0,10.0)
+    println("Hello Asad!")
 
 
 }
